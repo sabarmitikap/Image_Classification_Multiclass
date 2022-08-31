@@ -1,8 +1,4 @@
-import streamlit as st
-import tensorflow as tf
-import cv2
-from PIL import Image, ImageOps
-import numpy as np
+PIL==9.2.0
 pip==22.2.2
 keras==2.9.0
 Keras-Preprocessing==1.1.2
@@ -10,4 +6,4 @@ numpy==1.23.2
 pandas==1.4.3
 streamlit==1.12.2
 tensorflow==2.9.1
-cv2==4.6.0
+open_cv==4.6.0
